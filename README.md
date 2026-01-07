@@ -198,13 +198,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discord.py** - For the excellent Discord API wrapper
 - **Contributors** - Thank you to everyone who helps improve this project
 
-## 📞 Support
-
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/MirLunaDEV/gemini-discord-bot/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/MirLunaDEV/gemini-discord-bot/discussions)
-- 📖 **Documentation**: Check the [docs](docs/) folder
-- ❓ **Questions**: Open a discussion or check existing issues
-
 ---
 
 **⭐ If you find this project helpful, please consider giving it a star on GitHub!**
